@@ -55,7 +55,7 @@ Every decision is saved as an experience containing the problem, action, reasoni
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/self-learning-agent.git
+git clone https://github.com/rounakkraaj-1744/self-learning-agent.git
 cd self-learning-agent
 bun install
 ```
@@ -144,8 +144,3 @@ It does not train the language model, write new source code, or discover new act
 - Experiences use local JSON storage.
 
 Possible extensions include real test/build feedback, per-problem action values, experiment tracking, metrics visualization, database-backed memory, and human feedback.
-
-## License
-
-Add a license before publishing if you want others to reuse the project. MIT is a common choice for a small open-source experiment.
-
